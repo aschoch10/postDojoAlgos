@@ -35,5 +35,4 @@ function main() {
     // Concatenate and print the String variables on a new line
     console.log(s+s2)
     // The 's' variable above should be printed first.
-
 }
